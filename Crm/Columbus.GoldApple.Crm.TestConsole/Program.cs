@@ -1,28 +1,22 @@
-﻿using Columbus.GoldApple.Crm.Infrastructure;
+﻿using AutoMapper;
+using Columbus.GoldApple.Crm.Domain.Commands.Email.Transactional;
+using Columbus.GoldApple.Crm.Domain.Entities;
+using Columbus.GoldApple.Crm.Domain.Repositories;
+using Columbus.GoldApple.Crm.Domain.Services.Email;
+using Columbus.GoldApple.Crm.Domain.Services.Entities;
+using Columbus.GoldApple.Crm.Infrastructure;
+using Columbus.GoldApple.Crm.Infrastructure.Repositories;
+using Columbus.GoldApple.Crm.Infrastructure.Services.Entities;
+using Columbus.GoldApple.Mandrill.Infrastructure;
 using Columbus.InnerSource.Core.Commands;
 using Columbus.InnerSource.Core.Crm.Domain.Repositories;
 using Columbus.InnerSource.Infrastructure.Microsoft.Crm.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Xrm.Sdk;
 using Microsoft.Xrm.Sdk.Client;
-using System;
-using System.Collections.Generic;
-using System.ServiceModel.Description;
-using System.Threading.Tasks;
-using AutoMapper;
-using Columbus.GoldApple.AutoMapper.Infrastructure;
-using Columbus.GoldApple.AutoMapper.Infrastructure.Profiles;
-using Columbus.GoldApple.Crm.Domain.Commands.Email.Transactional;
-using Columbus.GoldApple.Crm.Domain.Configuration;
-using Columbus.GoldApple.Crm.Domain.Entities;
-using Columbus.GoldApple.Crm.Domain.Repositories;
-using Columbus.GoldApple.Crm.Domain.Services.Email;
-using Columbus.GoldApple.Crm.Domain.Services.Entities;
-using Columbus.GoldApple.Crm.Infrastructure.Repositories;
-using Columbus.GoldApple.Crm.Infrastructure.Services.Entities;
-using Columbus.GoldApple.Mandrill.Infrastructure;
-using Microsoft.Xrm.Sdk.Messages;
 using Microsoft.Xrm.Sdk.Query;
+using System;
+using System.ServiceModel.Description;
 
 namespace Columbus.GoldApple.Crm.TestConsole
 {
@@ -41,7 +35,7 @@ namespace Columbus.GoldApple.Crm.TestConsole
                     new Uri("https://crmtest.goldapple.ru/XRMServices/2011/Organization.svc"), null, clientCredentials, null);
                 return (IOrganizationService)proxy;
             });
-            services.AddScoped(p => MapperFactory.Build(new TransactionalEmailMapping()));
+
             services.AddScoped<ICommandBus, CommandBus>();
             services.AddScoped<IOrganizationCrmRepository, OrganizationCrmRepository>();
 
