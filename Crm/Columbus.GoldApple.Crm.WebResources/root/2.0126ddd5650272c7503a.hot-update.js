@@ -1,0 +1,2 @@
+webpackHotUpdate(2,{770:function(e,t,r){"use strict";var a=this&&this.__importStar||function(e){if(e&&e.__esModule)return e;var t={};if(null!=e)for(var r in e)Object.hasOwnProperty.call(e,r)&&(t[r]=e[r]);return t.default=e,t},n=this&&this.__importDefault||function(e){return e&&e.__esModule?e:{default:e}};Object.defineProperty(t,"__esModule",{value:!0});var u=a(r(0)),i=a(r(10)),l=n(r(771));r(774),i.render(u.createElement(l.default,{title:"React Webpack Typescript Sass готов!"}),document.getElementById("root"))}});
+//# sourceMappingURL=2.0126ddd5650272c7503a.hot-update.js.map

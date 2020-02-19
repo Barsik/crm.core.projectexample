@@ -1,0 +1,2145 @@
+14:26:27	Deploying Plugins
+14:26:27	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+14:26:27	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:26:27	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+14:30:41	Deploying Plugins
+14:30:41	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+14:30:41	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:30:41	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+14:30:41	3 plugin(s) found!
+14:30:42	Registering Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+14:30:43	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusBorjomiCore'
+14:30:43	Adding to solution 'ColumbusBorjomiCore'
+14:32:14	Deploying Plugins
+14:32:14	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+14:32:14	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:32:14	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+14:32:14	3 plugin(s) found!
+14:32:15	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+14:32:15	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+14:32:15	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+14:32:15	Adding to solution 'ColumbusCore'
+14:32:16	Registering Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+14:35:25	Deploying Plugins
+14:35:25	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+14:35:25	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:35:25	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+14:35:25	3 plugin(s) found!
+14:35:26	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+14:35:26	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+14:35:27	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+14:35:27	Adding to solution 'ColumbusCore'
+14:35:27	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+14:35:28	Registering Step 'TransactionalEmailTemplatesSync'
+14:35:28	Adding to solution 'ColumbusCore'
+14:35:29	Processed 1 config(s)
+14:53:57	Deploying Plugins
+14:53:57	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+14:53:57	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:53:57	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+14:53:57	3 plugin(s) found!
+14:53:58	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+14:53:58	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+14:53:59	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+14:53:59	Adding to solution 'ColumbusCore'
+14:53:59	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+14:53:59	Updating Step 'TransactionalEmailTemplatesSync'
+14:54:00	Adding to solution 'ColumbusCore'
+14:54:00	Processed 1 config(s)
+14:54:56	Deploying Plugins
+14:54:56	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+14:54:56	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:54:56	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+14:54:56	3 plugin(s) found!
+14:54:57	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+14:54:57	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+14:54:57	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+14:54:57	Adding to solution 'ColumbusCore'
+14:54:57	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+14:54:58	Updating Step 'TransactionalEmailTemplatesSync'
+14:54:58	Adding to solution 'ColumbusCore'
+14:54:58	Processed 1 config(s)
+14:55:50	Deploying Plugins
+14:55:50	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+14:55:50	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:55:50	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+14:55:50	3 plugin(s) found!
+14:55:51	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+14:55:51	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+14:55:51	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+14:55:51	Adding to solution 'ColumbusCore'
+14:55:52	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+14:55:52	Updating Step 'TransactionalEmailTemplatesSync'
+14:55:52	Adding to solution 'ColumbusCore'
+14:55:52	Processed 1 config(s)
+15:09:07	Deploying Plugins
+15:09:07	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+15:09:07	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+15:09:07	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+15:09:07	3 plugin(s) found!
+15:09:08	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+15:09:08	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+15:09:09	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+15:09:09	Adding to solution 'ColumbusCore'
+15:09:09	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+15:09:10	Updating Step 'TransactionalEmailTemplatesSync'
+15:09:10	Adding to solution 'ColumbusCore'
+15:09:10	Processed 1 config(s)
+15:12:25	Deploying Plugins
+15:12:25	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+15:12:25	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+15:12:25	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+15:12:25	3 plugin(s) found!
+15:12:26	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+15:12:26	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+15:12:27	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+15:12:27	Adding to solution 'ColumbusCore'
+15:12:27	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+15:12:28	Updating Step 'TransactionalEmailTemplatesSync'
+15:12:28	Adding to solution 'ColumbusCore'
+15:12:28	Processed 1 config(s)
+15:16:22	Deploying Plugins
+15:16:22	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+15:16:22	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+15:16:22	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+15:16:22	4 plugin(s) found!
+15:16:22	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+15:16:23	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+15:16:23	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+15:16:23	Adding to solution 'ColumbusCore'
+15:16:24	Registering Type 'Columbus.GoldApple.Crm.Plugins.Test.TestPlugin'
+15:16:24	Registering Step 'TestPlugin'
+15:16:24	Adding to solution 'ColumbusCore'
+15:16:25	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+15:16:25	Updating Step 'TransactionalEmailTemplatesSync'
+15:16:25	Adding to solution 'ColumbusCore'
+15:16:25	Processed 1 config(s)
+17:55:06	Deploying Plugins
+17:55:06	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:55:06	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:55:06	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:55:06	3 plugin(s) found!
+17:55:07	Registering Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:55:08	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:55:08	Adding to solution 'ColumbusCore'
+17:55:08	Registering Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:55:09	Registering Step 'TransactionalEmailTemplatesSync'
+17:55:09	Adding to solution 'ColumbusCore'
+17:55:09	Processed 1 config(s)
+18:14:46	Deploying Plugins
+18:14:46	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:14:46	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:14:46	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:14:46	3 plugin(s) found!
+18:14:47	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:14:47	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:14:48	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:14:48	Adding to solution 'ColumbusCore'
+18:14:48	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:14:49	Updating Step 'TransactionalEmailTemplatesSync'
+18:14:49	Adding to solution 'ColumbusCore'
+18:14:49	Processed 1 config(s)
+15:24:37	Deploying WebResources
+15:24:37	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+15:24:38	Creating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+15:24:40	Adding to solution 'ColumbusCore'
+15:24:43	Creating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+15:24:45	Adding to solution 'ColumbusCore'
+15:24:45	Creating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+15:24:46	Adding to solution 'ColumbusCore'
+15:24:46	Deployed 3 webresource(s)
+15:24:46	Publishing 3 webresources...
+15:24:53	Publish complete.
+15:24:53	Processed 1 section(s)
+15:24:53	Processed 1 config(s)
+15:48:24	Deploying WebResources
+15:48:24	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+15:48:50	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+15:48:51	Adding to solution 'ColumbusCore'
+15:48:55	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+15:48:57	Adding to solution 'ColumbusCore'
+15:48:58	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+15:48:59	Adding to solution 'ColumbusCore'
+15:49:00	Deployed 3 webresource(s)
+15:49:00	Publishing 3 webresources...
+15:49:03	Publish complete.
+15:49:03	Processed 1 section(s)
+15:49:03	Processed 1 config(s)
+16:52:05	Deploying WebResources
+16:52:05	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:52:06	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:52:07	Adding to solution 'ColumbusCore'
+16:52:11	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:52:13	Adding to solution 'ColumbusCore'
+16:52:14	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:52:15	Adding to solution 'ColumbusCore'
+16:52:15	Deployed 3 webresource(s)
+16:52:15	Publishing 3 webresources...
+16:52:22	Publish complete.
+16:52:22	Processed 1 section(s)
+16:52:22	Processed 1 config(s)
+16:53:40	Deploying WebResources
+16:53:40	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:53:42	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:53:42	Adding to solution 'ColumbusCore'
+16:53:45	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:53:46	Adding to solution 'ColumbusCore'
+16:53:48	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:53:48	Adding to solution 'ColumbusCore'
+16:53:49	Deployed 3 webresource(s)
+16:53:49	Publishing 3 webresources...
+16:53:52	Publish complete.
+16:53:52	Processed 1 section(s)
+16:53:52	Processed 1 config(s)
+12:41:45	Deploying WebResources
+12:41:46	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+12:41:51	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+12:41:52	Adding to solution 'ColumbusCore'
+12:41:59	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+12:42:04	Adding to solution 'ColumbusCore'
+12:42:05	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+12:42:06	Adding to solution 'ColumbusCore'
+12:42:07	Deployed 3 webresource(s)
+12:42:07	Publishing 3 webresources...
+12:42:15	Publish complete.
+12:42:15	Processed 1 section(s)
+12:42:15	Processed 1 config(s)
+12:51:55	Deploying WebResources
+12:51:55	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+12:51:58	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+12:51:58	Adding to solution 'ColumbusCore'
+12:52:03	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+12:52:06	Adding to solution 'ColumbusCore'
+12:52:06	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+12:52:07	Adding to solution 'ColumbusCore'
+12:52:07	Deployed 3 webresource(s)
+12:52:07	Publishing 3 webresources...
+12:52:11	Publish complete.
+12:52:11	Processed 1 section(s)
+12:52:11	Processed 1 config(s)
+13:22:54	Deploying WebResources
+13:22:55	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+13:22:57	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+13:22:57	Adding to solution 'ColumbusCore'
+13:23:05	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+13:23:07	Adding to solution 'ColumbusCore'
+13:23:09	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+13:23:10	Adding to solution 'ColumbusCore'
+13:23:10	Deployed 3 webresource(s)
+13:23:10	Publishing 3 webresources...
+13:23:18	Publish complete.
+13:23:18	Processed 1 section(s)
+13:23:18	Processed 1 config(s)
+13:29:39	Deploying WebResources
+13:29:40	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+13:29:42	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+13:29:42	Adding to solution 'ColumbusCore'
+13:29:46	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+14:06:32	Deploying WebResources
+14:06:32	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:06:33	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+14:06:33	Adding to solution 'ColumbusCore'
+14:06:35	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+14:06:37	Adding to solution 'ColumbusCore'
+14:06:39	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+14:06:39	Adding to solution 'ColumbusCore'
+14:06:40	Creating Webresource 'html\common\loadingView.html' -> 'cmb_/html/common/loadingView.html'
+14:06:40	Adding to solution 'ColumbusCore'
+14:06:40	Deployed 4 webresource(s)
+14:06:40	Publishing 4 webresources...
+14:06:43	Publish complete.
+14:06:43	Processed 1 section(s)
+14:06:43	Processed 1 config(s)
+14:25:16	Deploying WebResources
+14:25:16	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:25:19	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+14:25:19	Adding to solution 'ColumbusCore'
+14:25:24	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+14:25:26	Adding to solution 'ColumbusCore'
+14:25:27	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+14:25:27	Adding to solution 'ColumbusCore'
+14:25:28	Updating Webresource 'html\common\loadingView.html' -> 'cmb_/html/common/loadingView.html'
+14:25:28	Adding to solution 'ColumbusCore'
+14:25:28	Deployed 4 webresource(s)
+14:25:28	Publishing 4 webresources...
+14:25:31	Publish complete.
+14:25:31	Processed 1 section(s)
+14:25:31	Processed 1 config(s)
+14:44:30	Deploying WebResources
+14:44:31	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:44:31	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+14:44:31	Adding to solution 'ColumbusCore'
+14:44:37	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+14:52:48	Deploying WebResources
+14:52:48	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:52:49	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+14:52:49	Adding to solution 'ColumbusCore'
+14:52:52	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+15:28:31	Deploying WebResources
+15:28:31	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+15:28:32	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+15:28:32	Adding to solution 'ColumbusCore'
+15:28:33	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+15:28:33	Adding to solution 'ColumbusCore'
+15:28:38	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+15:40:25	Deploying WebResources
+15:40:26	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+15:40:27	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+15:40:27	Adding to solution 'ColumbusCore'
+15:40:27	Creating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+15:40:27	Adding to solution 'ColumbusCore'
+15:40:29	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+15:40:30	Adding to solution 'ColumbusCore'
+15:40:31	Creating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+15:40:31	Adding to solution 'ColumbusCore'
+15:40:34	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:01:24	Deploying WebResources
+16:01:24	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:01:24	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:01:25	Adding to solution 'ColumbusCore'
+16:01:25	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:01:25	Adding to solution 'ColumbusCore'
+16:01:28	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:01:29	Adding to solution 'ColumbusCore'
+16:01:29	Updating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+16:01:29	Adding to solution 'ColumbusCore'
+16:01:33	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:03:56	Deploying WebResources
+16:03:56	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:03:57	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:03:57	Adding to solution 'ColumbusCore'
+16:03:57	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:03:58	Adding to solution 'ColumbusCore'
+16:03:59	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:03:59	Adding to solution 'ColumbusCore'
+16:04:00	Updating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+16:04:00	Adding to solution 'ColumbusCore'
+16:04:02	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:05:59	Deploying WebResources
+16:06:00	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:06:00	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:06:00	Adding to solution 'ColumbusCore'
+16:06:01	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:06:01	Adding to solution 'ColumbusCore'
+16:06:03	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:06:03	Adding to solution 'ColumbusCore'
+16:06:04	Updating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+16:06:04	Adding to solution 'ColumbusCore'
+16:06:06	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:21:20	Deploying WebResources
+16:21:20	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:21:21	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:21:21	Adding to solution 'ColumbusCore'
+16:21:22	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:21:22	Adding to solution 'ColumbusCore'
+16:21:23	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:21:24	Adding to solution 'ColumbusCore'
+16:21:24	Updating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+16:21:24	Adding to solution 'ColumbusCore'
+16:21:26	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:34:52	Deploying WebResources
+16:34:52	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:34:53	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:34:53	Adding to solution 'ColumbusCore'
+16:34:53	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:34:54	Adding to solution 'ColumbusCore'
+16:34:56	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:34:56	Adding to solution 'ColumbusCore'
+16:34:57	Updating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+16:34:57	Adding to solution 'ColumbusCore'
+16:34:59	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:50:16	Deploying WebResources
+16:50:16	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:50:17	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:50:17	Adding to solution 'ColumbusCore'
+16:50:18	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:50:18	Adding to solution 'ColumbusCore'
+16:50:20	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:50:20	Adding to solution 'ColumbusCore'
+16:50:20	Updating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+16:50:21	Adding to solution 'ColumbusCore'
+16:50:23	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:55:50	Deploying WebResources
+16:55:50	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:55:51	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:55:52	Adding to solution 'ColumbusCore'
+16:55:52	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:55:52	Adding to solution 'ColumbusCore'
+16:55:54	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:55:55	Adding to solution 'ColumbusCore'
+16:55:55	Updating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+16:55:55	Adding to solution 'ColumbusCore'
+16:55:59	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+17:06:58	Deploying WebResources
+17:06:58	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:06:59	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+17:06:59	Adding to solution 'ColumbusCore'
+17:07:00	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+17:07:00	Adding to solution 'ColumbusCore'
+17:07:01	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+17:07:02	Adding to solution 'ColumbusCore'
+17:07:02	Updating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+17:07:02	Adding to solution 'ColumbusCore'
+17:07:06	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+17:09:39	Deploying WebResources
+17:09:39	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:09:40	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+17:09:40	Adding to solution 'ColumbusCore'
+17:09:41	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+17:09:41	Adding to solution 'ColumbusCore'
+17:09:42	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+17:09:42	Adding to solution 'ColumbusCore'
+17:09:43	Updating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+17:09:43	Adding to solution 'ColumbusCore'
+17:09:47	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+17:19:15	Deploying WebResources
+17:19:15	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:19:16	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+17:19:16	Adding to solution 'ColumbusCore'
+17:19:17	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+17:19:17	Adding to solution 'ColumbusCore'
+17:19:19	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+17:19:20	Adding to solution 'ColumbusCore'
+17:19:20	Updating Webresource 'html\transactionalEmail\syncTemplatesView.html' -> 'cmb_/html/transactionalEmail/syncTemplatesView.html'
+17:19:20	Adding to solution 'ColumbusCore'
+17:19:22	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+17:19:25	Adding to solution 'ColumbusCore'
+17:19:25	Deployed 5 webresource(s)
+17:19:25	Publishing 5 webresources...
+17:19:28	Publish complete.
+17:19:28	Processed 1 section(s)
+17:19:28	Processed 1 config(s)
+17:22:00	Deploying Plugins
+17:22:00	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:22:00	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:22:00	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:22:00	3 plugin(s) found!
+17:22:00	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:22:01	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:22:03	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:22:03	Adding to solution 'ColumbusCore'
+17:22:03	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:22:04	Updating Step 'TransactionalEmailTemplatesSync'
+17:22:04	Adding to solution 'ColumbusCore'
+17:22:04	Processed 1 config(s)
+17:28:02	Deploying Plugins
+17:28:02	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:28:02	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:28:02	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:28:03	3 plugin(s) found!
+17:28:03	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:28:03	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:28:05	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:28:05	Adding to solution 'ColumbusCore'
+17:28:06	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:28:06	Updating Step 'TransactionalEmailTemplatesSync'
+17:28:06	Adding to solution 'ColumbusCore'
+17:28:07	Processed 1 config(s)
+17:42:15	Deploying Plugins
+17:42:15	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:42:16	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:42:16	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:42:16	3 plugin(s) found!
+17:42:16	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:42:16	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:42:18	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:42:18	Adding to solution 'ColumbusCore'
+17:42:18	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:42:19	Updating Step 'TransactionalEmailTemplatesSync'
+17:42:19	Adding to solution 'ColumbusCore'
+17:42:20	Processed 1 config(s)
+17:46:29	Deploying Plugins
+17:46:29	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:46:29	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:46:29	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:46:29	3 plugin(s) found!
+17:46:30	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:46:30	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:46:31	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:46:31	Adding to solution 'ColumbusCore'
+17:46:31	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:46:31	Updating Step 'TransactionalEmailTemplatesSync'
+17:46:32	Adding to solution 'ColumbusCore'
+17:46:32	Processed 1 config(s)
+17:48:10	Deploying Plugins
+17:48:10	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:48:10	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:48:10	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:48:10	3 plugin(s) found!
+17:48:11	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:48:11	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:48:13	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:48:13	Adding to solution 'ColumbusCore'
+17:48:13	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:48:13	Updating Step 'TransactionalEmailTemplatesSync'
+17:48:14	Adding to solution 'ColumbusCore'
+17:48:14	Processed 1 config(s)
+17:50:38	Deploying Plugins
+17:50:38	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:50:38	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:50:38	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:50:38	3 plugin(s) found!
+17:50:39	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:50:39	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:50:40	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:50:40	Adding to solution 'ColumbusCore'
+17:50:40	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:50:40	Updating Step 'TransactionalEmailTemplatesSync'
+17:50:41	Adding to solution 'ColumbusCore'
+17:50:41	Processed 1 config(s)
+17:54:49	Deploying Plugins
+17:54:49	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:54:49	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:54:49	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:54:49	3 plugin(s) found!
+17:54:50	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:54:50	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:54:51	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:54:51	Adding to solution 'ColumbusCore'
+17:54:51	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:54:51	Updating Step 'TransactionalEmailTemplatesSync'
+17:54:52	Adding to solution 'ColumbusCore'
+17:54:52	Processed 1 config(s)
+17:56:59	Deploying Plugins
+17:56:59	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:56:59	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:56:59	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:56:59	3 plugin(s) found!
+17:57:00	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:57:00	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:57:01	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:57:01	Adding to solution 'ColumbusCore'
+17:57:01	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:57:01	Updating Step 'TransactionalEmailTemplatesSync'
+17:57:01	Adding to solution 'ColumbusCore'
+17:57:02	Processed 1 config(s)
+17:58:43	Deploying Plugins
+17:58:43	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:58:43	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:58:43	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:58:43	3 plugin(s) found!
+17:58:44	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:58:44	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:58:45	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:58:45	Adding to solution 'ColumbusCore'
+17:58:46	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:58:46	Updating Step 'TransactionalEmailTemplatesSync'
+17:58:46	Adding to solution 'ColumbusCore'
+17:58:46	Processed 1 config(s)
+18:00:31	Deploying Plugins
+18:00:31	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:00:31	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:00:31	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:00:32	3 plugin(s) found!
+18:00:32	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:00:32	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:00:34	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:00:34	Adding to solution 'ColumbusCore'
+18:00:34	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:00:34	Updating Step 'TransactionalEmailTemplatesSync'
+18:00:35	Adding to solution 'ColumbusCore'
+18:00:35	Processed 1 config(s)
+18:02:00	Deploying Plugins
+18:02:00	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:02:01	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:02:01	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:02:01	3 plugin(s) found!
+18:02:01	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:02:02	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:02:02	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:02:02	Adding to solution 'ColumbusCore'
+18:02:03	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:02:03	Updating Step 'TransactionalEmailTemplatesSync'
+18:02:03	Adding to solution 'ColumbusCore'
+18:02:04	Processed 1 config(s)
+18:03:34	Deploying Plugins
+18:03:34	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:03:34	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:03:34	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:03:35	3 plugin(s) found!
+18:03:35	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:03:35	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:03:37	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:03:37	Adding to solution 'ColumbusCore'
+18:03:37	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:03:38	Updating Step 'TransactionalEmailTemplatesSync'
+18:03:38	Adding to solution 'ColumbusCore'
+18:03:38	Processed 1 config(s)
+18:05:06	Deploying Plugins
+18:05:07	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:05:07	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:05:07	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:05:07	3 plugin(s) found!
+18:05:07	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:05:08	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:05:09	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:05:09	Adding to solution 'ColumbusCore'
+18:05:09	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:05:09	Updating Step 'TransactionalEmailTemplatesSync'
+18:05:10	Adding to solution 'ColumbusCore'
+18:05:10	Processed 1 config(s)
+18:06:26	Deploying Plugins
+18:06:26	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:06:26	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:06:26	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:06:26	3 plugin(s) found!
+18:06:27	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:06:27	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:06:29	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:06:29	Adding to solution 'ColumbusCore'
+18:06:29	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:06:29	Updating Step 'TransactionalEmailTemplatesSync'
+18:06:30	Adding to solution 'ColumbusCore'
+18:06:30	Processed 1 config(s)
+18:12:37	Deploying Plugins
+18:12:37	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:12:37	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:12:37	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:12:37	3 plugin(s) found!
+18:12:38	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:12:38	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:12:39	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:12:39	Adding to solution 'ColumbusCore'
+18:12:39	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:12:39	Updating Step 'TransactionalEmailTemplatesSync'
+18:12:40	Adding to solution 'ColumbusCore'
+18:12:40	Processed 1 config(s)
+18:32:00	Deploying Plugins
+18:32:00	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:32:00	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:32:00	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:32:00	3 plugin(s) found!
+18:32:01	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:32:01	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:32:02	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:32:02	Adding to solution 'ColumbusCore'
+18:32:02	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:32:03	Updating Step 'TransactionalEmailTemplatesSync'
+18:32:03	Adding to solution 'ColumbusCore'
+18:32:03	Processed 1 config(s)
+18:32:09	Deploying WebResources
+18:32:10	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:32:10	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+18:32:10	Adding to solution 'ColumbusCore'
+18:32:11	Creating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+18:32:11	Adding to solution 'ColumbusCore'
+18:32:11	Creating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+18:32:12	Adding to solution 'ColumbusCore'
+18:32:12	Creating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+18:32:13	Adding to solution 'ColumbusCore'
+18:32:16	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+18:32:18	Adding to solution 'ColumbusCore'
+18:32:18	Deployed 5 webresource(s)
+18:32:18	Publishing 5 webresources...
+18:32:21	Publish complete.
+18:32:21	Processed 1 section(s)
+18:32:21	Processed 1 config(s)
+18:35:57	Deploying Plugins
+18:35:57	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:35:58	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:35:58	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:35:58	3 plugin(s) found!
+18:35:58	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:35:58	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:35:59	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:35:59	Adding to solution 'ColumbusCore'
+18:36:00	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:36:00	Updating Step 'TransactionalEmailTemplatesSync'
+18:36:00	Adding to solution 'ColumbusCore'
+18:36:00	Processed 1 config(s)
+18:36:47	Deploying Plugins
+18:36:47	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:36:48	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:36:48	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:36:48	3 plugin(s) found!
+18:36:48	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:36:49	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:36:50	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:36:50	Adding to solution 'ColumbusCore'
+18:36:50	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:36:51	Updating Step 'TransactionalEmailTemplatesSync'
+18:36:51	Adding to solution 'ColumbusCore'
+18:36:51	Processed 1 config(s)
+18:36:58	Deploying WebResources
+18:36:58	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:36:59	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+18:36:59	Adding to solution 'ColumbusCore'
+18:36:59	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+18:36:59	Adding to solution 'ColumbusCore'
+18:37:01	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+18:37:02	Adding to solution 'ColumbusCore'
+18:37:02	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+18:37:03	Adding to solution 'ColumbusCore'
+18:37:05	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+18:37:08	Adding to solution 'ColumbusCore'
+18:37:08	Deployed 5 webresource(s)
+18:37:08	Publishing 5 webresources...
+18:37:10	Publish complete.
+18:37:10	Processed 1 section(s)
+18:37:10	Processed 1 config(s)
+18:41:58	Deploying Plugins
+18:41:58	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:41:58	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:41:58	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:41:58	3 plugin(s) found!
+18:41:59	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:41:59	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:42:00	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:42:00	Adding to solution 'ColumbusCore'
+18:42:01	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:42:01	Updating Step 'TransactionalEmailTemplatesSync'
+18:42:01	Adding to solution 'ColumbusCore'
+18:42:01	Processed 1 config(s)
+18:47:22	Deploying Plugins
+18:47:22	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:47:22	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:47:22	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:47:22	3 plugin(s) found!
+18:47:23	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:47:23	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:47:24	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:47:24	Adding to solution 'ColumbusCore'
+18:47:24	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:47:25	Updating Step 'TransactionalEmailTemplatesSync'
+18:47:25	Adding to solution 'ColumbusCore'
+18:47:25	Processed 1 config(s)
+18:48:18	Deploying Plugins
+18:48:18	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:48:18	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:48:18	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:48:18	3 plugin(s) found!
+18:48:18	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:48:19	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:48:20	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:48:20	Adding to solution 'ColumbusCore'
+18:48:20	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:48:21	Updating Step 'TransactionalEmailTemplatesSync'
+18:48:21	Adding to solution 'ColumbusCore'
+18:48:21	Processed 1 config(s)
+18:49:40	Deploying Plugins
+18:49:40	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:49:40	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:49:40	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:49:40	3 plugin(s) found!
+18:49:40	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:49:41	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:49:41	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:49:41	Adding to solution 'ColumbusCore'
+18:49:42	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:49:42	Updating Step 'TransactionalEmailTemplatesSync'
+18:49:42	Adding to solution 'ColumbusCore'
+18:49:42	Processed 1 config(s)
+18:52:24	Deploying Plugins
+18:52:24	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:52:24	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:52:24	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:52:24	3 plugin(s) found!
+18:52:25	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:52:25	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:52:26	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:52:26	Adding to solution 'ColumbusCore'
+18:52:26	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:52:27	Updating Step 'TransactionalEmailTemplatesSync'
+18:52:27	Adding to solution 'ColumbusCore'
+18:52:27	Processed 1 config(s)
+18:54:22	Deploying Plugins
+18:54:22	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:54:22	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:54:23	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:54:23	3 plugin(s) found!
+18:54:23	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:54:23	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:54:24	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:54:24	Adding to solution 'ColumbusCore'
+18:54:24	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:54:25	Updating Step 'TransactionalEmailTemplatesSync'
+18:54:25	Adding to solution 'ColumbusCore'
+18:54:25	Processed 1 config(s)
+18:56:47	Deploying Plugins
+18:56:47	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:56:47	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:56:47	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:56:48	3 plugin(s) found!
+18:56:48	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:56:48	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:56:50	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:56:50	Adding to solution 'ColumbusCore'
+18:56:50	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:56:50	Updating Step 'TransactionalEmailTemplatesSync'
+18:56:51	Adding to solution 'ColumbusCore'
+18:56:51	Processed 1 config(s)
+18:58:58	Deploying Plugins
+18:58:58	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:58:58	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:58:58	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:58:58	3 plugin(s) found!
+18:58:59	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:58:59	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:59:00	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:59:00	Adding to solution 'ColumbusCore'
+18:59:00	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:59:01	Updating Step 'TransactionalEmailTemplatesSync'
+18:59:01	Adding to solution 'ColumbusCore'
+18:59:01	Processed 1 config(s)
+19:01:48	Deploying Plugins
+19:01:48	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+19:01:48	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+19:01:49	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+19:01:49	3 plugin(s) found!
+19:01:49	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+19:01:49	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+19:01:50	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+19:01:50	Adding to solution 'ColumbusCore'
+19:01:51	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+19:01:51	Updating Step 'TransactionalEmailTemplatesSync'
+19:01:51	Adding to solution 'ColumbusCore'
+19:01:51	Processed 1 config(s)
+19:05:09	Deploying Plugins
+19:05:09	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+19:05:09	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+19:05:09	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+19:05:09	3 plugin(s) found!
+19:05:10	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+19:05:10	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+19:05:11	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+19:05:11	Adding to solution 'ColumbusCore'
+19:05:12	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+19:05:12	Updating Step 'TransactionalEmailTemplatesSync'
+19:05:12	Adding to solution 'ColumbusCore'
+19:05:12	Processed 1 config(s)
+19:08:16	Deploying Plugins
+19:08:16	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+19:08:16	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+19:08:16	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+19:08:16	3 plugin(s) found!
+19:08:17	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+19:08:17	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+19:08:19	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+19:08:19	Adding to solution 'ColumbusCore'
+19:08:19	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+19:08:20	Updating Step 'TransactionalEmailTemplatesSync'
+19:08:20	Adding to solution 'ColumbusCore'
+19:08:20	Processed 1 config(s)
+19:09:56	Deploying Plugins
+19:09:56	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+19:09:56	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+19:09:56	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+19:11:25	Deploying Plugins
+19:11:25	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+19:11:26	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+19:11:26	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+19:20:27	Deploying Plugins
+19:20:27	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+19:20:27	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+19:20:27	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+19:20:27	3 plugin(s) found!
+19:20:27	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+19:20:28	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+19:20:29	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+19:20:29	Adding to solution 'ColumbusCore'
+19:20:29	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+19:20:29	Updating Step 'TransactionalEmailTemplatesSync'
+19:20:30	Adding to solution 'ColumbusCore'
+19:20:30	Processed 1 config(s)
+19:38:31	Deploying Plugins
+19:38:31	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+19:38:31	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+19:38:31	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+19:38:31	3 plugin(s) found!
+19:38:32	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+19:38:32	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+19:38:33	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+19:38:33	Adding to solution 'ColumbusCore'
+19:38:33	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+19:38:33	Updating Step 'TransactionalEmailTemplatesSync'
+19:38:34	Adding to solution 'ColumbusCore'
+19:38:34	Processed 1 config(s)
+19:39:43	Deploying Plugins
+19:39:43	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+19:39:43	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+19:39:43	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+19:39:43	3 plugin(s) found!
+19:39:44	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+19:39:44	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+19:39:45	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+19:39:45	Adding to solution 'ColumbusCore'
+19:39:45	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+19:39:46	Updating Step 'TransactionalEmailTemplatesSync'
+19:39:46	Adding to solution 'ColumbusCore'
+19:39:46	Processed 1 config(s)
+0:58:35	Deploying WebResources
+0:58:35	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+0:58:40	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+0:58:40	Adding to solution 'ColumbusCore'
+0:58:41	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+0:58:41	Adding to solution 'ColumbusCore'
+0:58:42	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+0:58:42	Adding to solution 'ColumbusCore'
+0:58:42	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+0:58:42	Adding to solution 'ColumbusCore'
+0:58:44	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+0:58:45	Adding to solution 'ColumbusCore'
+0:58:45	Deployed 5 webresource(s)
+0:58:45	Publishing 5 webresources...
+0:58:48	Publish complete.
+0:58:48	Processed 1 section(s)
+0:58:48	Processed 1 config(s)
+1:10:21	Deploying WebResources
+1:10:22	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+1:10:23	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+1:10:23	Adding to solution 'ColumbusCore'
+1:10:23	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+1:10:23	Adding to solution 'ColumbusCore'
+1:10:24	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+1:10:24	Adding to solution 'ColumbusCore'
+1:10:25	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+1:10:25	Adding to solution 'ColumbusCore'
+1:10:27	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+1:10:27	Adding to solution 'ColumbusCore'
+1:10:28	Deployed 5 webresource(s)
+1:10:28	Publishing 5 webresources...
+1:10:31	Publish complete.
+1:10:31	Processed 1 section(s)
+1:10:31	Processed 1 config(s)
+1:23:03	Deploying WebResources
+1:23:04	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+1:23:05	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+1:23:06	Adding to solution 'ColumbusCore'
+1:23:06	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+1:23:06	Adding to solution 'ColumbusCore'
+1:23:08	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+1:23:08	Adding to solution 'ColumbusCore'
+1:23:08	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+1:23:08	Adding to solution 'ColumbusCore'
+1:23:11	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+1:23:12	Adding to solution 'ColumbusCore'
+1:23:12	Deployed 5 webresource(s)
+1:23:12	Publishing 5 webresources...
+1:23:15	Publish complete.
+1:23:15	Processed 1 section(s)
+1:23:15	Processed 1 config(s)
+1:28:37	Deploying WebResources
+1:28:37	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+1:28:39	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+1:28:39	Adding to solution 'ColumbusCore'
+1:28:39	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+1:28:39	Adding to solution 'ColumbusCore'
+1:28:40	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+1:28:41	Adding to solution 'ColumbusCore'
+1:28:41	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+1:28:41	Adding to solution 'ColumbusCore'
+1:28:44	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+1:33:53	Deploying WebResources
+1:33:53	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+1:33:55	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+1:33:55	Adding to solution 'ColumbusCore'
+1:33:55	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+1:33:55	Adding to solution 'ColumbusCore'
+1:33:57	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+1:33:58	Adding to solution 'ColumbusCore'
+1:33:58	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+1:33:58	Adding to solution 'ColumbusCore'
+1:34:01	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+1:34:03	Adding to solution 'ColumbusCore'
+1:34:03	Deployed 5 webresource(s)
+1:34:03	Publishing 5 webresources...
+1:34:06	Publish complete.
+1:34:06	Processed 1 section(s)
+1:34:06	Processed 1 config(s)
+10:43:18	Deploying WebResources
+10:43:18	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+10:44:26	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+10:44:26	Adding to solution 'ColumbusCore'
+10:44:27	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+10:44:27	Adding to solution 'ColumbusCore'
+10:44:28	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+10:44:30	Adding to solution 'ColumbusCore'
+10:44:30	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+10:44:30	Adding to solution 'ColumbusCore'
+10:44:35	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+10:44:39	Adding to solution 'ColumbusCore'
+10:44:39	Deployed 5 webresource(s)
+10:44:39	Publishing 5 webresources...
+10:44:42	Publish complete.
+10:44:42	Processed 1 section(s)
+10:44:42	Processed 1 config(s)
+10:51:36	Deploying WebResources
+10:51:36	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+10:51:37	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+10:51:37	Adding to solution 'ColumbusCore'
+10:51:38	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+10:51:39	Adding to solution 'ColumbusCore'
+10:51:42	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+10:51:44	Adding to solution 'ColumbusCore'
+10:51:45	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+10:51:45	Adding to solution 'ColumbusCore'
+10:51:53	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+10:56:31	Deploying WebResources
+10:56:31	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+10:56:32	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+10:56:32	Adding to solution 'ColumbusCore'
+10:56:33	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+10:56:33	Adding to solution 'ColumbusCore'
+10:56:35	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+10:56:36	Adding to solution 'ColumbusCore'
+10:56:36	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+10:56:36	Adding to solution 'ColumbusCore'
+10:56:46	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+10:56:53	Adding to solution 'ColumbusCore'
+10:56:53	Deployed 5 webresource(s)
+10:56:53	Publishing 5 webresources...
+10:56:56	Publish complete.
+10:56:56	Processed 1 section(s)
+10:56:56	Processed 1 config(s)
+11:00:05	Deploying WebResources
+11:00:05	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+11:00:05	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+11:00:06	Adding to solution 'ColumbusCore'
+11:00:06	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+11:00:07	Adding to solution 'ColumbusCore'
+11:00:10	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+11:00:11	Adding to solution 'ColumbusCore'
+11:00:11	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+11:00:11	Adding to solution 'ColumbusCore'
+11:00:15	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+11:10:38	Deploying WebResources
+11:10:38	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+11:10:39	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+11:10:40	Adding to solution 'ColumbusCore'
+11:10:40	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+11:10:41	Adding to solution 'ColumbusCore'
+11:10:42	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+11:10:44	Adding to solution 'ColumbusCore'
+11:10:44	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+11:10:45	Adding to solution 'ColumbusCore'
+11:10:49	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+11:11:01	Adding to solution 'ColumbusCore'
+11:11:01	Deployed 5 webresource(s)
+11:11:01	Publishing 5 webresources...
+11:11:05	Publish complete.
+11:11:05	Processed 1 section(s)
+11:11:05	Processed 1 config(s)
+11:15:28	Deploying WebResources
+11:15:28	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+11:15:29	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+11:15:30	Adding to solution 'ColumbusCore'
+11:15:30	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+11:15:30	Adding to solution 'ColumbusCore'
+11:15:32	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+11:15:36	Adding to solution 'ColumbusCore'
+11:15:36	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+11:15:36	Adding to solution 'ColumbusCore'
+11:15:45	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+11:15:49	Adding to solution 'ColumbusCore'
+11:15:49	Deployed 5 webresource(s)
+11:15:49	Publishing 5 webresources...
+11:15:51	Publish complete.
+11:15:51	Processed 1 section(s)
+11:15:51	Processed 1 config(s)
+11:19:41	Deploying WebResources
+11:19:41	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+11:19:43	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+11:19:43	Adding to solution 'ColumbusCore'
+11:19:43	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+11:19:43	Adding to solution 'ColumbusCore'
+11:19:44	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+11:19:46	Adding to solution 'ColumbusCore'
+11:19:46	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+11:19:46	Adding to solution 'ColumbusCore'
+11:19:54	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+11:19:57	Adding to solution 'ColumbusCore'
+11:19:58	Deployed 5 webresource(s)
+11:19:58	Publishing 5 webresources...
+11:20:00	Publish complete.
+11:20:00	Processed 1 section(s)
+11:20:00	Processed 1 config(s)
+11:27:26	Deploying WebResources
+11:27:26	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+11:27:26	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+11:27:27	Adding to solution 'ColumbusCore'
+11:27:27	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+11:27:27	Adding to solution 'ColumbusCore'
+11:27:28	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+11:27:29	Adding to solution 'ColumbusCore'
+11:27:29	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+11:27:29	Adding to solution 'ColumbusCore'
+11:27:32	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+11:27:36	Adding to solution 'ColumbusCore'
+11:27:36	Deployed 5 webresource(s)
+11:27:36	Publishing 5 webresources...
+11:27:39	Publish complete.
+11:27:39	Processed 1 section(s)
+11:27:39	Processed 1 config(s)
+11:33:05	Deploying WebResources
+11:33:06	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+11:33:06	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+11:33:07	Adding to solution 'ColumbusCore'
+11:33:07	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+11:33:07	Adding to solution 'ColumbusCore'
+11:33:09	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+11:33:11	Adding to solution 'ColumbusCore'
+11:33:12	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+11:33:12	Adding to solution 'ColumbusCore'
+11:33:18	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+11:33:23	Adding to solution 'ColumbusCore'
+11:33:23	Deployed 5 webresource(s)
+11:33:23	Publishing 5 webresources...
+11:33:26	Publish complete.
+11:33:26	Processed 1 section(s)
+11:33:26	Processed 1 config(s)
+20:03:38	Deploying Plugins
+20:03:38	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:03:38	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:03:38	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:03:38	4 plugin(s) found!
+20:04:51	Deploying Plugins
+20:04:51	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:04:51	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:04:51	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:04:51	4 plugin(s) found!
+20:04:52	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:04:52	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:04:54	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:04:54	Adding to solution 'ColumbusCore'
+20:04:55	Registering Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:04:56	Registering Step 'TransactionalEmailMessageSendCreate'
+20:04:57	Registering Image 'PreImage'
+20:16:06	Deploying Plugins
+20:16:06	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:16:06	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:16:06	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:16:06	4 plugin(s) found!
+20:16:07	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:16:07	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:16:09	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:16:09	Adding to solution 'ColumbusCore'
+20:16:09	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:16:10	Updating Step 'TransactionalEmailMessageSendCreate'
+20:16:10	Adding to solution 'ColumbusCore'
+20:16:10	Registering Step 'TransactionalEmailMessageSendUpdate'
+20:16:11	Registering Image 'PreImage'
+20:17:01	Deploying Plugins
+20:17:01	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:17:01	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:17:01	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:17:01	4 plugin(s) found!
+20:17:02	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:17:02	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:17:03	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:17:03	Adding to solution 'ColumbusCore'
+20:17:04	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:17:04	Updating Step 'TransactionalEmailMessageSendCreate'
+20:17:04	Adding to solution 'ColumbusCore'
+20:17:04	Registering Step 'TransactionalEmailMessageSendUpdate'
+20:17:05	Registering Image 'PreImage'
+20:17:05	Adding to solution 'ColumbusCore'
+20:17:05	Deleting step 'TransactionalEmailMessageSendUpdate'
+20:17:06	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:17:06	Updating Step 'TransactionalEmailTemplatesSync'
+20:17:06	Adding to solution 'ColumbusCore'
+20:17:06	Processed 1 config(s)
+20:24:16	Deploying Plugins
+20:24:16	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:24:16	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:24:16	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:24:16	4 plugin(s) found!
+20:24:17	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:24:17	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:24:18	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:24:18	Adding to solution 'ColumbusCore'
+20:24:18	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:24:19	Updating Step 'TransactionalEmailMessageSendCreate'
+20:24:19	Adding to solution 'ColumbusCore'
+20:24:19	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:24:19	Updating Image 'PreImage'
+20:24:19	Adding to solution 'ColumbusCore'
+20:24:19	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:24:20	Updating Step 'TransactionalEmailTemplatesSync'
+20:24:20	Adding to solution 'ColumbusCore'
+20:24:20	Processed 1 config(s)
+20:27:32	Deploying Plugins
+20:27:32	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:27:32	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:27:32	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:27:32	4 plugin(s) found!
+20:27:33	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:27:33	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:27:34	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:27:34	Adding to solution 'ColumbusCore'
+20:27:34	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:27:34	Updating Step 'TransactionalEmailMessageSendCreate'
+20:27:35	Adding to solution 'ColumbusCore'
+20:27:35	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:27:35	Updating Image 'PreImage'
+20:27:35	Adding to solution 'ColumbusCore'
+20:27:35	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:27:36	Updating Step 'TransactionalEmailTemplatesSync'
+20:27:36	Adding to solution 'ColumbusCore'
+20:27:36	Processed 1 config(s)
+20:31:32	Deploying Plugins
+20:31:32	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:31:32	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:31:32	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:31:33	4 plugin(s) found!
+20:31:33	Registering Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:33:35	Deploying Plugins
+20:33:35	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:33:35	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:33:36	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:33:36	4 plugin(s) found!
+20:33:36	Registering Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:33:38	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:33:38	Adding to solution 'ColumbusCore'
+20:33:38	Registering Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:33:39	Registering Step 'TransactionalEmailMessageSendCreate'
+20:33:40	Adding to solution 'ColumbusCore'
+20:33:40	Registering Step 'TransactionalEmailMessageSendUpdate'
+20:33:40	Registering Image 'PreImage'
+20:33:41	Adding to solution 'ColumbusCore'
+20:33:41	Registering Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:33:41	Registering Step 'TransactionalEmailTemplatesSync'
+20:33:42	Adding to solution 'ColumbusCore'
+20:33:42	Processed 1 config(s)
+20:41:07	Deploying Plugins
+20:41:07	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:41:07	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:41:07	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:41:07	4 plugin(s) found!
+20:41:08	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:41:08	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:41:09	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:41:09	Adding to solution 'ColumbusCore'
+20:41:09	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:41:10	Updating Step 'TransactionalEmailMessageSendCreate'
+20:41:10	Adding to solution 'ColumbusCore'
+20:41:10	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:41:10	Updating Image 'PreImage'
+20:41:11	Adding to solution 'ColumbusCore'
+20:41:11	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:41:11	Updating Step 'TransactionalEmailTemplatesSync'
+20:41:11	Adding to solution 'ColumbusCore'
+20:41:11	Processed 1 config(s)
+20:44:13	Deploying Plugins
+20:44:13	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:44:13	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:44:13	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:44:13	4 plugin(s) found!
+20:44:14	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:44:14	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:44:16	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:44:16	Adding to solution 'ColumbusCore'
+20:44:16	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:44:17	Updating Step 'TransactionalEmailMessageSendCreate'
+20:44:17	Adding to solution 'ColumbusCore'
+20:44:17	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:44:17	Updating Image 'PreImage'
+20:44:17	Adding to solution 'ColumbusCore'
+20:44:17	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:44:18	Updating Step 'TransactionalEmailTemplatesSync'
+20:44:18	Adding to solution 'ColumbusCore'
+20:44:18	Processed 1 config(s)
+20:46:06	Deploying Plugins
+20:46:06	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:46:06	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:46:06	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:46:06	4 plugin(s) found!
+20:46:07	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:46:07	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:46:08	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:46:08	Adding to solution 'ColumbusCore'
+20:46:09	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:46:09	Updating Step 'TransactionalEmailMessageSendCreate'
+20:46:09	Adding to solution 'ColumbusCore'
+20:46:10	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:46:10	Updating Image 'PreImage'
+20:46:10	Adding to solution 'ColumbusCore'
+20:46:10	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:46:10	Updating Step 'TransactionalEmailTemplatesSync'
+20:46:11	Adding to solution 'ColumbusCore'
+20:46:11	Processed 1 config(s)
+20:47:44	Deploying Plugins
+20:47:44	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:47:44	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:47:44	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:47:45	4 plugin(s) found!
+20:47:45	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:47:46	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:47:47	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:47:47	Adding to solution 'ColumbusCore'
+20:47:47	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:47:47	Updating Step 'TransactionalEmailMessageSendCreate'
+20:47:48	Adding to solution 'ColumbusCore'
+20:47:48	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:47:48	Updating Image 'PreImage'
+20:47:48	Adding to solution 'ColumbusCore'
+20:47:48	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:47:49	Updating Step 'TransactionalEmailTemplatesSync'
+20:47:49	Adding to solution 'ColumbusCore'
+20:47:49	Processed 1 config(s)
+20:49:16	Deploying Plugins
+20:49:16	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:49:17	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:49:17	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:49:17	4 plugin(s) found!
+20:49:18	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:49:18	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:49:19	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:49:19	Adding to solution 'ColumbusCore'
+20:49:20	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:49:20	Updating Step 'TransactionalEmailMessageSendCreate'
+20:49:20	Adding to solution 'ColumbusCore'
+20:49:20	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:49:21	Updating Image 'PreImage'
+20:49:21	Adding to solution 'ColumbusCore'
+20:49:21	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:49:21	Updating Step 'TransactionalEmailTemplatesSync'
+20:49:21	Adding to solution 'ColumbusCore'
+20:49:22	Processed 1 config(s)
+20:50:18	Deploying Plugins
+20:50:18	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:50:18	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:50:18	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:50:19	4 plugin(s) found!
+20:50:19	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:50:20	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:50:21	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:50:21	Adding to solution 'ColumbusCore'
+20:50:21	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:50:22	Updating Step 'TransactionalEmailMessageSendCreate'
+20:50:22	Adding to solution 'ColumbusCore'
+20:50:22	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:50:22	Updating Image 'PreImage'
+20:50:22	Adding to solution 'ColumbusCore'
+20:50:23	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:50:23	Updating Step 'TransactionalEmailTemplatesSync'
+20:50:23	Adding to solution 'ColumbusCore'
+20:50:23	Processed 1 config(s)
+20:51:26	Deploying Plugins
+20:51:26	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:51:26	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:51:26	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:51:27	4 plugin(s) found!
+20:51:27	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:51:27	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:51:29	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:51:29	Adding to solution 'ColumbusCore'
+20:51:29	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:51:30	Updating Step 'TransactionalEmailMessageSendCreate'
+20:51:30	Adding to solution 'ColumbusCore'
+20:51:30	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:51:30	Updating Image 'PreImage'
+20:51:30	Adding to solution 'ColumbusCore'
+20:51:31	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:51:31	Updating Step 'TransactionalEmailTemplatesSync'
+20:51:31	Adding to solution 'ColumbusCore'
+20:51:31	Processed 1 config(s)
+20:54:34	Deploying Plugins
+20:54:35	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:54:35	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:54:35	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:54:35	4 plugin(s) found!
+20:54:36	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:54:36	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:54:38	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:54:38	Adding to solution 'ColumbusCore'
+20:54:38	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:54:38	Updating Step 'TransactionalEmailMessageSendCreate'
+20:54:39	Adding to solution 'ColumbusCore'
+20:54:39	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:54:39	Updating Image 'PreImage'
+20:54:39	Adding to solution 'ColumbusCore'
+20:54:39	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:54:40	Updating Step 'TransactionalEmailTemplatesSync'
+20:54:40	Adding to solution 'ColumbusCore'
+20:54:40	Processed 1 config(s)
+20:54:48	Deploying Plugins
+20:54:48	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:54:48	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:54:48	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:54:48	4 plugin(s) found!
+20:54:49	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:54:49	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:54:50	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:54:50	Adding to solution 'ColumbusCore'
+20:54:50	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:54:51	Updating Step 'TransactionalEmailMessageSendCreate'
+20:54:51	Adding to solution 'ColumbusCore'
+20:54:51	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:54:51	Updating Image 'PreImage'
+20:54:51	Adding to solution 'ColumbusCore'
+20:54:52	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:54:52	Updating Step 'TransactionalEmailTemplatesSync'
+20:54:52	Adding to solution 'ColumbusCore'
+20:54:52	Processed 1 config(s)
+20:56:28	Deploying Plugins
+20:56:28	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:56:28	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:56:28	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:56:28	4 plugin(s) found!
+20:56:29	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:56:29	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:56:30	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:56:30	Adding to solution 'ColumbusCore'
+20:56:30	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:56:31	Updating Step 'TransactionalEmailMessageSendCreate'
+20:56:31	Adding to solution 'ColumbusCore'
+20:56:31	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:56:31	Updating Image 'PreImage'
+20:56:32	Adding to solution 'ColumbusCore'
+20:56:32	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:56:32	Updating Step 'TransactionalEmailTemplatesSync'
+20:56:32	Adding to solution 'ColumbusCore'
+20:56:32	Processed 1 config(s)
+20:58:14	Deploying Plugins
+20:58:14	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:58:14	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:58:14	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:58:14	4 plugin(s) found!
+20:58:15	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:58:15	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:58:17	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:58:17	Adding to solution 'ColumbusCore'
+20:58:17	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:58:17	Updating Step 'TransactionalEmailMessageSendCreate'
+20:58:18	Adding to solution 'ColumbusCore'
+20:58:18	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:58:18	Updating Image 'PreImage'
+20:58:18	Adding to solution 'ColumbusCore'
+20:58:18	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:58:19	Updating Step 'TransactionalEmailTemplatesSync'
+20:58:19	Adding to solution 'ColumbusCore'
+20:58:19	Processed 1 config(s)
+20:58:40	Deploying Plugins
+20:58:40	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+20:58:41	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+20:58:41	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+20:58:41	4 plugin(s) found!
+20:58:42	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+20:58:42	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+20:58:43	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+20:58:43	Adding to solution 'ColumbusCore'
+20:58:43	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+20:58:44	Updating Step 'TransactionalEmailMessageSendCreate'
+20:58:44	Adding to solution 'ColumbusCore'
+20:58:44	Updating Step 'TransactionalEmailMessageSendUpdate'
+20:58:44	Updating Image 'PreImage'
+20:58:45	Adding to solution 'ColumbusCore'
+20:58:45	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+20:58:45	Updating Step 'TransactionalEmailTemplatesSync'
+20:58:45	Adding to solution 'ColumbusCore'
+20:58:45	Processed 1 config(s)
+21:00:24	Deploying Plugins
+21:00:24	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+21:00:25	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+21:00:25	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+21:00:25	4 plugin(s) found!
+21:00:26	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+21:00:26	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+21:00:27	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+21:00:27	Adding to solution 'ColumbusCore'
+21:00:27	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+21:00:28	Updating Step 'TransactionalEmailMessageSendCreate'
+21:00:28	Adding to solution 'ColumbusCore'
+21:00:28	Updating Step 'TransactionalEmailMessageSendUpdate'
+21:00:28	Updating Image 'PreImage'
+21:00:28	Adding to solution 'ColumbusCore'
+21:00:29	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+21:00:29	Updating Step 'TransactionalEmailTemplatesSync'
+21:00:29	Adding to solution 'ColumbusCore'
+21:00:29	Processed 1 config(s)
+21:03:25	Deploying Plugins
+21:03:25	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+21:03:25	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+21:03:25	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+21:03:25	4 plugin(s) found!
+21:03:26	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+21:03:26	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+21:03:27	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+21:03:27	Adding to solution 'ColumbusCore'
+21:03:28	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+21:03:28	Updating Step 'TransactionalEmailMessageSendCreate'
+21:03:28	Adding to solution 'ColumbusCore'
+21:03:29	Updating Step 'TransactionalEmailMessageSendUpdate'
+21:03:29	Updating Image 'PreImage'
+21:03:29	Adding to solution 'ColumbusCore'
+21:03:29	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+21:03:29	Updating Step 'TransactionalEmailTemplatesSync'
+21:03:30	Adding to solution 'ColumbusCore'
+21:03:30	Processed 1 config(s)
+21:04:34	Deploying Plugins
+21:04:34	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+21:04:34	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+21:04:34	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+21:04:34	4 plugin(s) found!
+21:04:35	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+21:04:35	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+21:04:37	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+21:04:37	Adding to solution 'ColumbusCore'
+21:04:37	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+21:04:37	Updating Step 'TransactionalEmailMessageSendCreate'
+21:04:38	Adding to solution 'ColumbusCore'
+21:04:38	Updating Step 'TransactionalEmailMessageSendUpdate'
+21:04:38	Updating Image 'PreImage'
+21:04:38	Adding to solution 'ColumbusCore'
+21:04:38	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+21:04:39	Updating Step 'TransactionalEmailTemplatesSync'
+21:04:39	Adding to solution 'ColumbusCore'
+21:04:39	Processed 1 config(s)
+21:06:32	Deploying Plugins
+21:06:32	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+21:06:32	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+21:06:33	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+21:06:33	4 plugin(s) found!
+21:06:33	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+21:06:34	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+21:06:35	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+21:06:35	Adding to solution 'ColumbusCore'
+21:06:36	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+21:06:36	Updating Step 'TransactionalEmailMessageSendCreate'
+21:06:36	Adding to solution 'ColumbusCore'
+21:06:36	Updating Step 'TransactionalEmailMessageSendUpdate'
+21:06:37	Updating Image 'PreImage'
+21:06:37	Adding to solution 'ColumbusCore'
+21:06:37	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+21:06:37	Updating Step 'TransactionalEmailTemplatesSync'
+21:06:38	Adding to solution 'ColumbusCore'
+21:06:38	Processed 1 config(s)
+21:11:12	Deploying Plugins
+21:11:12	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+21:11:13	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+21:11:13	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+21:11:13	4 plugin(s) found!
+21:11:14	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+21:11:14	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+21:11:15	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+21:11:15	Adding to solution 'ColumbusCore'
+21:11:15	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+21:11:15	Updating Step 'TransactionalEmailMessageSendCreate'
+21:11:16	Adding to solution 'ColumbusCore'
+21:11:16	Updating Step 'TransactionalEmailMessageSendUpdate'
+21:11:16	Updating Image 'PreImage'
+21:11:16	Adding to solution 'ColumbusCore'
+21:11:16	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+21:11:17	Updating Step 'TransactionalEmailTemplatesSync'
+21:11:17	Adding to solution 'ColumbusCore'
+21:11:17	Processed 1 config(s)
+21:11:42	Deploying Plugins
+21:11:42	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+21:11:42	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+21:11:42	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+21:11:42	4 plugin(s) found!
+21:11:43	Registering Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+21:11:44	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+21:11:44	Adding to solution 'ColumbusCore'
+21:11:45	Registering Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+21:11:45	Registering Step 'TransactionalEmailMessageSendCreate'
+21:11:46	Adding to solution 'ColumbusCore'
+21:11:46	Registering Step 'TransactionalEmailMessageSendUpdate'
+21:11:46	Registering Image 'PreImage'
+21:11:46	Adding to solution 'ColumbusCore'
+21:11:46	Registering Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+21:11:47	Registering Step 'TransactionalEmailTemplatesSync'
+21:11:47	Adding to solution 'ColumbusCore'
+21:11:47	Processed 1 config(s)
+21:15:30	Deploying Plugins
+21:15:30	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+21:15:30	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+21:15:30	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+21:15:30	4 plugin(s) found!
+21:15:31	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+21:15:31	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+21:15:32	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+21:15:32	Adding to solution 'ColumbusCore'
+21:15:32	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+21:15:33	Updating Step 'TransactionalEmailMessageSendCreate'
+21:15:33	Adding to solution 'ColumbusCore'
+21:15:33	Updating Step 'TransactionalEmailMessageSendUpdate'
+21:15:33	Updating Image 'PreImage'
+21:15:34	Adding to solution 'ColumbusCore'
+21:15:34	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+21:15:34	Updating Step 'TransactionalEmailTemplatesSync'
+21:15:34	Adding to solution 'ColumbusCore'
+21:15:34	Processed 1 config(s)
+21:17:49	Deploying Plugins
+21:17:49	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+21:17:49	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+21:17:49	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+21:17:49	4 plugin(s) found!
+21:17:50	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+21:17:50	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+21:17:59	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+21:17:59	Adding to solution 'ColumbusCore'
+21:17:59	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+21:18:00	Updating Step 'TransactionalEmailMessageSendCreate'
+21:18:00	Adding to solution 'ColumbusCore'
+21:18:00	Updating Step 'TransactionalEmailMessageSendUpdate'
+21:18:00	Updating Image 'PreImage'
+21:18:01	Adding to solution 'ColumbusCore'
+21:18:01	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+21:18:01	Updating Step 'TransactionalEmailTemplatesSync'
+21:18:01	Adding to solution 'ColumbusCore'
+21:18:02	Processed 1 config(s)
+21:26:20	Deploying Plugins
+21:26:20	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+21:26:21	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+21:26:21	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+21:26:21	4 plugin(s) found!
+21:26:22	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+21:26:22	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+21:26:23	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+21:26:23	Adding to solution 'ColumbusCore'
+21:26:23	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+21:26:24	Updating Step 'TransactionalEmailMessageSendCreate'
+21:26:24	Adding to solution 'ColumbusCore'
+21:26:24	Updating Step 'TransactionalEmailMessageSendUpdate'
+21:26:24	Updating Image 'PreImage'
+21:26:25	Adding to solution 'ColumbusCore'
+21:26:25	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+21:26:25	Updating Step 'TransactionalEmailTemplatesSync'
+21:26:25	Adding to solution 'ColumbusCore'
+21:26:25	Processed 1 config(s)
+21:35:32	Deploying Plugins
+21:35:32	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+21:35:32	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+21:35:33	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+21:35:33	4 plugin(s) found!
+21:35:33	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+21:35:34	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+21:35:35	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+21:35:35	Adding to solution 'ColumbusCore'
+21:35:35	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+21:35:36	Updating Step 'TransactionalEmailMessageSendCreate'
+21:35:36	Adding to solution 'ColumbusCore'
+21:35:36	Updating Step 'TransactionalEmailMessageSendUpdate'
+21:35:36	Updating Image 'PreImage'
+21:35:36	Adding to solution 'ColumbusCore'
+21:35:37	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+21:35:37	Updating Step 'TransactionalEmailTemplatesSync'
+21:35:37	Adding to solution 'ColumbusCore'
+21:35:37	Processed 1 config(s)
+17:25:38	Deploying Plugins
+17:25:38	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:25:38	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:25:38	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:25:38	4 plugin(s) found!
+17:25:39	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:25:39	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:25:41	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:25:41	Adding to solution 'ColumbusCore'
+17:25:42	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+17:25:43	Updating Step 'TransactionalEmailMessageSendCreate'
+17:25:44	Adding to solution 'ColumbusCore'
+17:25:44	Updating Step 'TransactionalEmailMessageSendUpdate'
+17:25:45	Updating Image 'PreImage'
+17:25:45	Adding to solution 'ColumbusCore'
+17:25:45	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:25:46	Updating Step 'TransactionalEmailTemplatesSync'
+17:25:46	Adding to solution 'ColumbusCore'
+17:25:46	Processed 1 config(s)
+17:31:49	Deploying Plugins
+17:31:49	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:31:49	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:31:49	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:31:49	4 plugin(s) found!
+17:31:50	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:31:50	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:31:52	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:31:52	Adding to solution 'ColumbusCore'
+17:31:52	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+17:31:52	Updating Step 'TransactionalEmailMessageSendCreate'
+17:31:53	Adding to solution 'ColumbusCore'
+17:31:53	Updating Step 'TransactionalEmailMessageSendUpdate'
+17:32:14	Updating Image 'PreImage'
+17:32:14	Adding to solution 'ColumbusCore'
+17:32:15	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:32:15	Updating Step 'TransactionalEmailTemplatesSync'
+17:32:15	Adding to solution 'ColumbusCore'
+17:32:15	Processed 1 config(s)
+17:35:18	Deploying Plugins
+17:35:18	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:35:18	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:35:19	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:35:19	4 plugin(s) found!
+17:35:19	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:35:19	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:35:21	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:35:21	Adding to solution 'ColumbusCore'
+17:35:21	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+17:35:22	Updating Step 'TransactionalEmailMessageSendCreate'
+17:35:22	Adding to solution 'ColumbusCore'
+17:35:22	Updating Step 'TransactionalEmailMessageSendUpdate'
+17:35:22	Updating Image 'PreImage'
+17:35:23	Adding to solution 'ColumbusCore'
+17:35:23	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:35:23	Updating Step 'TransactionalEmailTemplatesSync'
+17:35:23	Adding to solution 'ColumbusCore'
+17:35:23	Processed 1 config(s)
+17:37:13	Deploying Plugins
+17:37:13	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:37:13	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:37:13	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:37:13	4 plugin(s) found!
+17:37:14	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:37:14	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:37:15	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:37:15	Adding to solution 'ColumbusCore'
+17:37:16	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+17:37:16	Updating Step 'TransactionalEmailMessageSendCreate'
+17:37:16	Adding to solution 'ColumbusCore'
+17:37:16	Updating Step 'TransactionalEmailMessageSendUpdate'
+17:37:17	Updating Image 'PreImage'
+17:37:17	Adding to solution 'ColumbusCore'
+17:37:17	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:37:17	Updating Step 'TransactionalEmailTemplatesSync'
+17:37:18	Adding to solution 'ColumbusCore'
+17:37:18	Processed 1 config(s)
+17:51:21	Deploying Plugins
+17:51:21	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:51:21	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:51:21	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:51:21	4 plugin(s) found!
+17:51:22	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:51:22	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:51:23	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:51:23	Adding to solution 'ColumbusCore'
+17:51:23	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+17:51:24	Updating Step 'TransactionalEmailMessageSendCreate'
+17:51:24	Adding to solution 'ColumbusCore'
+17:51:24	Updating Step 'TransactionalEmailMessageSendUpdate'
+17:51:24	Updating Image 'PreImage'
+17:51:24	Adding to solution 'ColumbusCore'
+17:51:25	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:51:25	Updating Step 'TransactionalEmailTemplatesSync'
+17:51:25	Adding to solution 'ColumbusCore'
+17:51:25	Processed 1 config(s)
+17:54:00	Deploying Plugins
+17:54:00	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:54:00	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:54:00	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:54:00	4 plugin(s) found!
+17:54:01	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:54:01	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:54:02	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:54:02	Adding to solution 'ColumbusCore'
+17:54:02	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+17:54:03	Updating Step 'TransactionalEmailMessageSendCreate'
+17:54:03	Adding to solution 'ColumbusCore'
+17:54:03	Updating Step 'TransactionalEmailMessageSendUpdate'
+17:54:03	Updating Image 'PreImage'
+17:54:04	Adding to solution 'ColumbusCore'
+17:54:04	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:54:04	Updating Step 'TransactionalEmailTemplatesSync'
+17:54:04	Adding to solution 'ColumbusCore'
+17:54:04	Processed 1 config(s)
+17:54:55	Deploying Plugins
+17:54:55	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+17:54:55	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:54:56	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+17:54:56	4 plugin(s) found!
+17:54:56	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+17:54:56	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+17:54:57	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+17:54:57	Adding to solution 'ColumbusCore'
+17:54:58	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+17:54:58	Updating Step 'TransactionalEmailMessageSendCreate'
+17:54:58	Adding to solution 'ColumbusCore'
+17:54:59	Updating Step 'TransactionalEmailMessageSendUpdate'
+17:54:59	Updating Image 'PreImage'
+17:54:59	Adding to solution 'ColumbusCore'
+17:54:59	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+17:55:00	Updating Step 'TransactionalEmailTemplatesSync'
+17:55:00	Adding to solution 'ColumbusCore'
+17:55:00	Processed 1 config(s)
+18:05:50	Deploying Plugins
+18:05:50	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:05:51	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:05:51	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:05:51	4 plugin(s) found!
+18:05:52	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:05:52	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:05:54	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:05:54	Adding to solution 'ColumbusCore'
+18:05:54	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+18:05:55	Updating Step 'TransactionalEmailMessageSendCreate'
+18:05:55	Adding to solution 'ColumbusCore'
+18:05:55	Updating Step 'TransactionalEmailMessageSendUpdate'
+18:05:55	Updating Image 'PreImage'
+18:05:56	Adding to solution 'ColumbusCore'
+18:05:56	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:05:57	Updating Step 'TransactionalEmailTemplatesSync'
+18:05:57	Adding to solution 'ColumbusCore'
+18:05:57	Processed 1 config(s)
+18:12:27	Deploying Plugins
+18:12:27	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:12:27	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:12:27	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:12:27	4 plugin(s) found!
+18:12:28	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:12:28	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:12:29	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:12:30	Adding to solution 'ColumbusCore'
+18:12:30	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+18:12:30	Updating Step 'TransactionalEmailMessageSendCreate'
+18:12:31	Adding to solution 'ColumbusCore'
+18:12:31	Updating Step 'TransactionalEmailMessageSendUpdate'
+18:12:31	Updating Image 'PreImage'
+18:12:31	Adding to solution 'ColumbusCore'
+18:12:31	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:12:32	Updating Step 'TransactionalEmailTemplatesSync'
+18:12:32	Adding to solution 'ColumbusCore'
+18:12:32	Processed 1 config(s)
+18:32:14	Deploying Plugins
+18:32:14	Searching for plugin config in 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools\spkl\..'
+18:32:15	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+18:32:15	Checking assembly 'Columbus.GoldApple.Crm.Plugins.dll' for plugins
+18:32:15	4 plugin(s) found!
+18:32:16	Checking for orphaned PluginTypes: 'Columbus.GoldApple.Crm.Plugins' 
+18:32:16	Updating Plugin 'Columbus.GoldApple.Crm.Plugins' from 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Plugins\bin\Debug\Columbus.GoldApple.Crm.Plugins.dll'
+18:32:18	Adding Plugin 'Columbus.GoldApple.Crm.Plugins' to solution 'ColumbusCore'
+18:32:18	Adding to solution 'ColumbusCore'
+18:32:18	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailMessageSend'
+18:32:18	Updating Step 'TransactionalEmailMessageSendCreate'
+18:32:19	Adding to solution 'ColumbusCore'
+18:32:19	Updating Step 'TransactionalEmailMessageSendUpdate'
+18:32:20	Updating Image 'PreImage'
+18:32:20	Adding to solution 'ColumbusCore'
+18:32:20	Updating Type 'Columbus.GoldApple.Crm.Plugins.Email.Transactional.TransactionalEmailTemplatesSync'
+18:32:20	Updating Step 'TransactionalEmailTemplatesSync'
+18:32:20	Adding to solution 'ColumbusCore'
+18:32:21	Processed 1 config(s)
+13:40:36	Deploying WebResources
+13:40:36	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+13:40:37	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+13:40:38	Adding to solution 'ColumbusCore'
+13:40:39	Creating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+13:40:39	Adding to solution 'ColumbusCore'
+13:40:39	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+13:40:40	Adding to solution 'ColumbusCore'
+13:40:41	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+13:40:41	Adding to solution 'ColumbusCore'
+13:40:42	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+13:40:42	Adding to solution 'ColumbusCore'
+13:40:42	Creating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+13:40:42	Adding to solution 'ColumbusCore'
+13:40:44	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+13:40:46	Adding to solution 'ColumbusCore'
+13:40:47	Deployed 7 webresource(s)
+13:40:47	Publishing 7 webresources...
+13:40:51	Publish complete.
+13:40:51	Processed 1 section(s)
+13:40:51	Processed 1 config(s)
+13:56:21	Deploying WebResources
+13:56:21	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+13:56:23	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+13:56:23	Adding to solution 'ColumbusCore'
+13:56:24	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+13:56:24	Adding to solution 'ColumbusCore'
+13:56:25	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+13:56:26	Adding to solution 'ColumbusCore'
+13:56:28	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+13:56:29	Adding to solution 'ColumbusCore'
+13:56:30	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+13:56:31	Adding to solution 'ColumbusCore'
+13:56:32	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+13:56:32	Adding to solution 'ColumbusCore'
+13:56:35	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+13:56:37	Adding to solution 'ColumbusCore'
+13:56:37	Deployed 7 webresource(s)
+13:56:37	Publishing 7 webresources...
+13:56:40	Publish complete.
+13:56:40	Processed 1 section(s)
+13:56:40	Processed 1 config(s)
+14:36:31	Deploying WebResources
+14:36:31	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+14:36:32	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+14:36:32	Adding to solution 'ColumbusCore'
+14:36:33	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+14:36:34	Adding to solution 'ColumbusCore'
+14:36:35	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+14:36:35	Adding to solution 'ColumbusCore'
+14:36:38	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+14:36:39	Adding to solution 'ColumbusCore'
+14:36:40	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+14:36:40	Adding to solution 'ColumbusCore'
+14:36:41	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+14:36:42	Adding to solution 'ColumbusCore'
+14:36:45	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+14:36:47	Adding to solution 'ColumbusCore'
+14:36:47	Deployed 7 webresource(s)
+14:36:47	Publishing 7 webresources...
+14:36:50	Publish complete.
+14:36:50	Processed 1 section(s)
+14:36:50	Processed 1 config(s)
+16:47:01	Deploying WebResources
+16:47:02	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:47:03	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:47:04	Adding to solution 'ColumbusCore'
+16:47:06	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+16:47:06	Adding to solution 'ColumbusCore'
+16:47:08	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:47:08	Adding to solution 'ColumbusCore'
+16:47:15	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:47:16	Adding to solution 'ColumbusCore'
+16:47:17	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+16:47:18	Adding to solution 'ColumbusCore'
+16:47:19	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+16:47:19	Adding to solution 'ColumbusCore'
+16:47:26	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:47:28	Adding to solution 'ColumbusCore'
+16:47:29	Deployed 7 webresource(s)
+16:47:29	Publishing 7 webresources...
+16:47:33	Publish complete.
+16:47:33	Processed 1 section(s)
+16:47:33	Processed 1 config(s)
+16:51:09	Deploying WebResources
+16:51:09	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:51:10	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:51:10	Adding to solution 'ColumbusCore'
+16:51:11	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+16:51:12	Adding to solution 'ColumbusCore'
+16:51:13	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:51:13	Adding to solution 'ColumbusCore'
+16:51:16	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:51:17	Adding to solution 'ColumbusCore'
+16:51:18	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+16:51:19	Adding to solution 'ColumbusCore'
+16:51:20	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+16:51:20	Adding to solution 'ColumbusCore'
+16:51:24	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:51:26	Adding to solution 'ColumbusCore'
+16:51:26	Deployed 7 webresource(s)
+16:51:26	Publishing 7 webresources...
+16:51:32	Publish complete.
+16:51:32	Processed 1 section(s)
+16:51:32	Processed 1 config(s)
+17:36:24	Deploying WebResources
+17:36:25	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:36:26	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+17:36:27	Adding to solution 'ColumbusCore'
+17:36:28	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+17:36:28	Adding to solution 'ColumbusCore'
+17:36:29	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+17:36:29	Adding to solution 'ColumbusCore'
+17:36:32	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+17:36:34	Adding to solution 'ColumbusCore'
+17:36:35	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+17:36:35	Adding to solution 'ColumbusCore'
+17:36:36	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+17:36:36	Adding to solution 'ColumbusCore'
+17:36:40	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+17:36:42	Adding to solution 'ColumbusCore'
+17:36:42	Deployed 7 webresource(s)
+17:36:42	Publishing 7 webresources...
+17:36:46	Publish complete.
+17:36:46	Processed 1 section(s)
+17:36:46	Processed 1 config(s)
+17:46:14	Deploying WebResources
+17:46:14	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:46:16	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+17:46:16	Adding to solution 'ColumbusCore'
+17:46:17	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+17:46:17	Adding to solution 'ColumbusCore'
+17:46:18	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+17:46:19	Adding to solution 'ColumbusCore'
+17:46:23	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+17:46:25	Adding to solution 'ColumbusCore'
+17:46:26	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+17:46:27	Adding to solution 'ColumbusCore'
+17:46:28	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+17:46:29	Adding to solution 'ColumbusCore'
+17:46:32	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+17:46:34	Adding to solution 'ColumbusCore'
+17:46:35	Deployed 7 webresource(s)
+17:46:35	Publishing 7 webresources...
+17:46:44	Publish complete.
+17:46:44	Processed 1 section(s)
+17:46:44	Processed 1 config(s)
+19:39:28	Deploying WebResources
+19:39:28	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+19:39:29	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+19:39:30	Adding to solution 'ColumbusCore'
+19:39:31	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+19:39:31	Adding to solution 'ColumbusCore'
+19:39:32	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+19:39:33	Adding to solution 'ColumbusCore'
+19:39:35	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+19:39:36	Adding to solution 'ColumbusCore'
+19:39:37	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+19:39:37	Adding to solution 'ColumbusCore'
+19:39:38	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+19:39:39	Adding to solution 'ColumbusCore'
+19:39:42	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+19:39:44	Adding to solution 'ColumbusCore'
+19:39:44	Deployed 7 webresource(s)
+19:39:44	Publishing 7 webresources...
+19:39:49	Publish complete.
+19:39:49	Processed 1 section(s)
+19:39:49	Processed 1 config(s)
+10:29:47	Deploying WebResources
+10:29:47	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+10:29:49	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+10:29:50	Adding to solution 'ColumbusCore'
+10:29:51	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+10:29:52	Adding to solution 'ColumbusCore'
+10:29:53	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+10:29:53	Adding to solution 'ColumbusCore'
+10:29:56	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+10:29:57	Adding to solution 'ColumbusCore'
+10:29:58	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+10:29:58	Adding to solution 'ColumbusCore'
+10:29:59	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+10:30:00	Adding to solution 'ColumbusCore'
+10:30:03	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+10:30:06	Adding to solution 'ColumbusCore'
+10:30:07	Deployed 7 webresource(s)
+10:30:07	Publishing 7 webresources...
+10:30:12	Publish complete.
+10:30:12	Processed 1 section(s)
+10:30:12	Processed 1 config(s)
+16:02:54	Deploying WebResources
+16:02:54	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:02:55	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:02:56	Adding to solution 'ColumbusCore'
+16:02:57	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+16:02:57	Adding to solution 'ColumbusCore'
+16:02:59	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:02:59	Adding to solution 'ColumbusCore'
+16:03:02	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:03:03	Adding to solution 'ColumbusCore'
+16:03:04	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+16:03:04	Adding to solution 'ColumbusCore'
+16:03:05	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+16:03:06	Adding to solution 'ColumbusCore'
+16:03:09	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:03:12	Adding to solution 'ColumbusCore'
+16:03:12	Deployed 7 webresource(s)
+16:03:12	Publishing 7 webresources...
+16:03:20	Publish complete.
+16:03:20	Processed 1 section(s)
+16:03:20	Processed 1 config(s)
+16:09:59	Deploying WebResources
+16:10:00	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:10:00	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:10:01	Adding to solution 'ColumbusCore'
+16:10:02	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+16:10:02	Adding to solution 'ColumbusCore'
+16:10:03	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:10:04	Adding to solution 'ColumbusCore'
+16:10:06	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:10:07	Adding to solution 'ColumbusCore'
+16:10:08	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+16:10:08	Adding to solution 'ColumbusCore'
+16:10:09	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+16:10:10	Adding to solution 'ColumbusCore'
+16:10:14	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:10:16	Adding to solution 'ColumbusCore'
+16:10:16	Deployed 7 webresource(s)
+16:10:16	Publishing 7 webresources...
+16:10:19	Publish complete.
+16:10:19	Processed 1 section(s)
+16:10:19	Processed 1 config(s)
+16:41:44	Deploying WebResources
+16:41:44	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:41:46	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:41:46	Adding to solution 'ColumbusCore'
+16:41:47	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+16:41:48	Adding to solution 'ColumbusCore'
+16:41:49	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:41:49	Adding to solution 'ColumbusCore'
+16:41:51	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:41:52	Adding to solution 'ColumbusCore'
+16:41:53	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+16:41:54	Adding to solution 'ColumbusCore'
+16:41:55	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+16:41:55	Adding to solution 'ColumbusCore'
+16:41:58	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:41:59	Adding to solution 'ColumbusCore'
+16:42:00	Deployed 7 webresource(s)
+16:42:00	Publishing 7 webresources...
+16:42:03	Publish complete.
+16:42:03	Processed 1 section(s)
+16:42:03	Processed 1 config(s)
+16:52:36	Deploying WebResources
+16:52:37	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+16:52:38	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+16:52:38	Adding to solution 'ColumbusCore'
+16:52:39	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+16:52:40	Adding to solution 'ColumbusCore'
+16:52:41	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+16:52:41	Adding to solution 'ColumbusCore'
+16:52:44	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+16:52:45	Adding to solution 'ColumbusCore'
+16:52:46	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+16:52:46	Adding to solution 'ColumbusCore'
+16:52:47	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+16:52:48	Adding to solution 'ColumbusCore'
+16:52:51	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+16:52:53	Adding to solution 'ColumbusCore'
+16:52:53	Deployed 7 webresource(s)
+16:52:53	Publishing 7 webresources...
+16:52:56	Publish complete.
+16:52:56	Processed 1 section(s)
+16:52:56	Processed 1 config(s)
+17:00:44	Deploying WebResources
+17:00:44	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:00:45	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+17:00:46	Adding to solution 'ColumbusCore'
+17:00:47	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+17:00:47	Adding to solution 'ColumbusCore'
+17:00:48	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+17:00:49	Adding to solution 'ColumbusCore'
+17:00:51	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+17:00:51	Adding to solution 'ColumbusCore'
+17:00:52	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+17:00:53	Adding to solution 'ColumbusCore'
+17:00:54	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+17:00:54	Adding to solution 'ColumbusCore'
+17:00:57	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+17:00:59	Adding to solution 'ColumbusCore'
+17:01:00	Deployed 7 webresource(s)
+17:01:00	Publishing 7 webresources...
+17:01:03	Publish complete.
+17:01:03	Processed 1 section(s)
+17:01:03	Processed 1 config(s)
+17:03:37	Deploying WebResources
+17:03:37	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:03:38	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+17:03:39	Adding to solution 'ColumbusCore'
+17:03:40	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+17:03:40	Adding to solution 'ColumbusCore'
+17:03:41	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+17:03:42	Adding to solution 'ColumbusCore'
+17:03:43	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+17:03:44	Adding to solution 'ColumbusCore'
+17:03:45	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+17:03:46	Adding to solution 'ColumbusCore'
+17:03:47	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+17:03:47	Adding to solution 'ColumbusCore'
+17:03:50	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+17:03:52	Adding to solution 'ColumbusCore'
+17:03:53	Deployed 7 webresource(s)
+17:03:53	Publishing 7 webresources...
+17:03:56	Publish complete.
+17:03:56	Processed 1 section(s)
+17:03:56	Processed 1 config(s)
+17:27:29	Deploying WebResources
+17:27:29	Using Config 'C:\Workspace\GoldApple_tfs\Crm\Columbus.GoldApple.Crm.Tools'
+17:27:30	Updating Webresource 'js\crm.js' -> 'cmb_/js/crm.js'
+17:27:31	Adding to solution 'ColumbusCore'
+17:27:32	Updating Webresource 'js\templateMergeTagsBuilder.js' -> 'cmb_/js/templateMergeTagsBuilder.js'
+17:27:32	Adding to solution 'ColumbusCore'
+17:27:33	Updating Webresource 'js\transactionalEmailSyncTemplates.js' -> 'cmb_/js/transactionalEmailSyncTemplates.js'
+17:27:33	Adding to solution 'ColumbusCore'
+17:27:35	Updating Webresource 'css\styles.css' -> 'cmb_/css/styles.css'
+17:27:36	Adding to solution 'ColumbusCore'
+17:27:37	Updating Webresource 'html\transactionalEmailSyncTemplates.html' -> 'cmb_/html/transactionalEmailSyncTemplates.html'
+17:27:37	Adding to solution 'ColumbusCore'
+17:27:39	Updating Webresource 'html\templateMergeTagsBuilder.html' -> 'cmb_/html/templateMergeTagsBuilder.html'
+17:27:39	Adding to solution 'ColumbusCore'
+17:27:41	Updating Webresource 'js\vendor.js' -> 'cmb_/js/vendor.js'
+17:27:43	Adding to solution 'ColumbusCore'
+17:27:44	Deployed 7 webresource(s)
+17:27:44	Publishing 7 webresources...
+17:27:47	Publish complete.
+17:27:47	Processed 1 section(s)
+17:27:47	Processed 1 config(s)

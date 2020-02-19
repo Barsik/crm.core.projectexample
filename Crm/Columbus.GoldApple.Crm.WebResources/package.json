@@ -1,0 +1,43 @@
+{
+  "name": "columbus-borjomi-crm-webresources",
+  "version": "1.0.0",
+  "author": "lazarev.a",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=dev webpack-dev-server --hot  --progress --open --mode development --config webpack.config.js",
+    "build:prod": "webpack -p --progress --mode production --config webpack.config.js",
+    "build": "webpack -p --progress --mode production --config webpack.config.js",
+    "build:dev": "cross-env NODE_ENV=dev webpack -p --progress --mode development --config webpack.config.js"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "@types/react-router-dom": "^4.2.7",
+    "@types/reqwest": "git+https://git@github.com/nozzlegear/reqwest.d.ts.git",
+    "antd": "^3.26.6",
+    "cross-env": "^5.2.0",
+    "css-loader": "^0.28.11",
+    "dynamics-web-api": "^1.6.2",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.9.1",
+    "react-hot-loader": "^4.3.3",
+    "reqwest": "^2.0.5",
+    "sass-loader": "^7.0.3",
+    "source-map-loader": "^0.2.3",
+    "style-loader": "^0.21.0",
+    "ts-loader": "^4.4.2",
+    "typescript": "^3.7.4",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4",
+    "xrm-webapi-client": "^3.6.16"
+  },
+  "dependencies": {
+    "@types/xrm": "^9.0.20",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1"
+  }
+}
